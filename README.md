@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Rajesh Devanal**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Machine+Learning+Enthusiast;Turning+Data+into+Business+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=800&color=9B59B6&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Machine+Learning+Enthusiast;Turning+Data+into+Business+Insights" />
 </div>
 
 ---
