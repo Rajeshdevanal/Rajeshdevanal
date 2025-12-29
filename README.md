@@ -62,7 +62,7 @@ Power BI | Tableau | Jupyter Notebook | Git
 - Implemented data modeling using **Power Query & DAX**  
 **Tech:** Power BI, DAX, Excel
 
-### 🔹 IMDb Database Analysis (SQL)
+### 🔹 IMDB Database Analysis (SQL)
 - Designed a normalized relational database
 - Developed advanced SQL queries for trend and rating analysis  
 **Tech:** SQL, MySQL
