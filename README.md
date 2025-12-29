@@ -83,7 +83,7 @@ Power BI | Tableau | Jupyter Notebook | Git
 
 ## 📫 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/rajesh-devanal">
+  <a href="https://www.linkedin.com/in/rajesh-devanal-a31519255/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devanalrajesh@gmail.com">
