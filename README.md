@@ -1,37 +1,37 @@
 # 👋 Hi, I'm **Rajesh Devanal**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Machine+Learning+Enthusiast;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Machine+Learning+Enthusiast;Turning+Data+into+Business+Insights" />
 </div>
 
 ---
 
 ## 🎯 Career Objective
-Aspiring **Data Scientist / Data Analyst** with strong analytical, programming, and problem-solving skills. Passionate about leveraging **data-driven insights** to enhance business decisions and deliver impactful analytical solutions.
+Motivated **Data Analyst / Aspiring Data Scientist** with strong analytical and problem-solving skills. Passionate about transforming raw data into **actionable insights** that support business growth and informed decision-making.
 
 ---
 
 ## 🎓 Education
-**Bachelor of Computer Applications (BCA)** – 2025  
+🎓 **Bachelor of Computer Applications (BCA)** – 2025  
 *KLE’S SSMS BCA College, Athani*
 
 ---
 
 ## 🎓 Training & Internship
 
-### 📘 Data Analytics Course  
+### 📘 Data Analytics Training  
 **Data Mites**
-- Successfully completed a comprehensive **Data Analytics course**
+- Completed an industry-oriented **Data Analytics program**
 - Gained hands-on experience in **Python, SQL, Power BI, Statistics, and Machine Learning**
-- Worked on **real-world datasets, case studies, and analytics projects**
+- Worked on **real-world datasets, case studies, and end-to-end analytics projects**
 
 ### 💼 Data Analysis Intern — *6 Months*  
 **Rubixe**
-- Completed a **6-month internship** as a Data Analysis Intern
+- Completed a **6-month professional internship** in Data Analytics
 - Performed **data cleaning, preprocessing, and exploratory data analysis (EDA)**
-- Built **interactive dashboards using Power BI** and visualizations using **Python**
-- Applied **statistical analysis and machine learning techniques** to identify trends and insights
-- Worked on **client-based projects** and presented data-driven solutions
+- Built **interactive Power BI dashboards** and Python visualizations
+- Applied **statistical methods and machine learning models** to uncover patterns
+- Delivered **client-focused insights** and supported data-driven decisions
 
 ---
 
@@ -40,16 +40,16 @@ Aspiring **Data Scientist / Data Analyst** with strong analytical, programming, 
 ### 🔹 Programming
 Python | Java | C | C#
 
-### 🔹 Data Science & Analytics
-Data Cleaning | Data Analysis | Preprocessing | Data Visualization
+### 🔹 Data Analytics
+Data Cleaning | Data Analysis | EDA | Data Visualization
 
 ### 🔹 Machine Learning
-Regression | Classification | Clustering | Prediction Models
+Regression | Classification | Clustering | Predictive Modeling
 
 ### 🔹 Databases
 SQL | MySQL
 
-### 🔹 Tools
+### 🔹 Tools & Platforms
 Power BI | Tableau | Jupyter Notebook | Git
 
 ---
@@ -57,27 +57,27 @@ Power BI | Tableau | Jupyter Notebook | Git
 ## 📊 Projects
 
 ### 🔹 Customer Data Analysis (Power BI)
-- Analyzed customer demographics & transactions
-- Created KPIs: revenue, customer count, category-wise sales
-- Used **Power Query & DAX** for modeling  
+- Analyzed customer demographics and transaction data
+- Designed KPIs: total revenue, customer count, category-wise sales
+- Implemented data modeling using **Power Query & DAX**  
 **Tech:** Power BI, DAX, Excel
 
 ### 🔹 IMDb Database Analysis (SQL)
-- Designed normalized relational database
-- Wrote advanced SQL queries for insights & trends  
+- Designed a normalized relational database
+- Developed advanced SQL queries for trend and rating analysis  
 **Tech:** SQL, MySQL
 
 ### 🔹 Customer Segmentation (Client Project)
-- Applied **K-Means clustering** on customer data
+- Implemented **K-Means clustering** for customer segmentation
 - Evaluated clusters using **Silhouette Score**
-- Visualized insights using **Python & Power BI**  
+- Visualized insights using **Python and Power BI**  
 **Tech:** Python, Machine Learning, Power BI
 
 ---
 
 ## 📜 Certifications
-- Data Science with Python — **EDUCBA**
-- Data Analysis with Python — **IBM**
+- 📘 Data Science with Python — **EDUCBA**
+- 📊 Data Analysis with Python — **IBM**
 
 ---
 
@@ -96,4 +96,5 @@ Power BI | Tableau | Jupyter Notebook | Git
 
 ---
 
-⭐ *Open to Data Analyst / Data Scientist opportunities*
+⭐ **Open to Data Analyst / Data Scientist opportunities**  
+🚀 Ready to learn, contribute, and grow in data-driven roles
