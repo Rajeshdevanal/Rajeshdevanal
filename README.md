@@ -7,41 +7,34 @@
 ---
 
 ## 🎯 Career Objective
-Motivated **Data Analyst / Aspiring Data Scientist** with strong analytical and problem-solving skills. Passionate about transforming raw data into **actionable insights** that support business growth and informed decision-making.
+Aspiring **Data Analyst / Data Scientist** with strong analytical, programming, and problem-solving skills. Passionate about leveraging data-driven insights to enhance business decisions and deliver impactful analytical solutions.
 
 ---
 
 ## 🎓 Education
-🎓 **Bachelor of Computer Applications (BCA)** – 2025  
-*KLE’S SSMS BCA College, Athani*
+🎓 **Bachelor of Computer Applications (BCA)** *(2022 – 2025)*  
+*KLE’s SSMS BCA College, Athani, Karnataka*
 
 ---
 
-## 🎓 Training & Internship
+## 💼 Internship Experience
 
-### 📘 Data Analytics Training  
-**Data Mites**
-- Completed an industry-oriented **Data Analytics program**
-- Gained hands-on experience in **Python, SQL, Power BI, Statistics, and Machine Learning**
-- Worked on **real-world datasets, case studies, and end-to-end analytics projects**
-
-### 💼 Data Analysis Intern — *6 Months*  
-**Rubixe**
-- Completed a **6-month professional internship** in Data Analytics
-- Performed **data cleaning, preprocessing, and exploratory data analysis (EDA)**
-- Built **interactive Power BI dashboards** and Python visualizations
-- Applied **statistical methods and machine learning models** to uncover patterns
-- Delivered **client-focused insights** and supported data-driven decisions
+### 📊 Data Analyst Intern — *Rubixe (Data Mites)*
+**Duration:** 6 Months  
+- Worked on real-world datasets for **data cleaning, preprocessing, and EDA**
+- Built **interactive dashboards** using Power BI and Python
+- Applied **statistical analysis and machine learning techniques**
+- Delivered **data-driven insights** for business decision-making
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 🔹 Programming
-Python | Java | C | C#
+Python | Java | C
 
-### 🔹 Data Analytics
-Data Cleaning | Data Analysis | EDA | Data Visualization
+### 🔹 Data Science & Analytics
+Data Cleaning | Data Analysis | Data Preprocessing | EDA | Data Visualization
 
 ### 🔹 Machine Learning
 Regression | Classification | Clustering | Predictive Modeling
@@ -49,35 +42,40 @@ Regression | Classification | Clustering | Predictive Modeling
 ### 🔹 Databases
 SQL | MySQL
 
-### 🔹 Tools & Platforms
+### 🔹 Tools
 Power BI | Tableau | Jupyter Notebook | Git
 
 ---
 
 ## 📊 Projects
 
-### 🔹 Customer Data Analysis (Power BI)
-- Analyzed customer demographics and transaction data
-- Designed KPIs: total revenue, customer count, category-wise sales
-- Implemented data modeling using **Power Query & DAX**  
-**Tech:** Power BI, DAX, Excel
-
-### 🔹 IMDB Database Analysis (SQL)
-- Designed a normalized relational database
-- Developed advanced SQL queries for trend and rating analysis  
-**Tech:** SQL, MySQL
-
 ### 🔹 Customer Segmentation (Client Project)
-- Implemented **K-Means clustering** for customer segmentation
-- Evaluated clusters using **Silhouette Score**
-- Visualized insights using **Python and Power BI**  
-**Tech:** Python, Machine Learning, Power BI
+- Applied **K-Means clustering** for customer segmentation
+- Evaluated performance using **Silhouette Score**
+- Generated actionable insights for marketing strategies  
+🔗 https://github.com/Rajeshdevanal/Customer-Segmentation-Client-Project
+
+---
+
+### 🔹 Customer Data Analysis
+- Performed **data cleaning, transformation, and EDA**
+- Identified trends and patterns in customer behavior
+- Built dashboards for business insights  
+🔗 https://github.com/Rajeshdevanal/Customer-Data-Analysis
+
+---
+
+### 🔹 IMDb Database Analysis (MySQL)
+- Designed a **relational database schema**
+- Performed advanced SQL queries for trend analysis  
+🔗 https://github.com/Rajeshdevanal/IMDB-My-SQL-Project
 
 ---
 
 ## 📜 Certifications
-- 📘 Data Science with Python — **EDUCBA**
-- 📊 Data Analysis with Python — **IBM**
+- 📊 IABAC Certified Data Analyst  
+- 📘 Data Analyst Certification — Data Mites  
+- 📘 Data Science with Python — EDUCBA  
 
 ---
 
@@ -96,5 +94,11 @@ Power BI | Tableau | Jupyter Notebook | Git
 
 ---
 
-⭐ **Open to Data Analyst / Data Scientist opportunities**  
-🚀 Ready to learn, contribute, and grow in data-driven roles
+## ⭐ About Me
+- 💡 Strong interest in **Data Analytics & Machine Learning**
+- 📊 Skilled in turning raw data into **actionable insights**
+- 🚀 Actively seeking **Data Analyst / Data Scientist opportunities**
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
